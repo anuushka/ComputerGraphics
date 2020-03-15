@@ -1,3 +1,3 @@
 # ComputerGraphics
 
-CGG labs ( I hate this subject :'( )
+CGG labs ( I don't like this subject :'( )
